@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Tue, 11 Aug 2026 19:17:26 +0000
+Description: alphai-tui, terminal stock dashboard
+Label: alphai-tui
+Origin: alphai-tui
+Suite: stable
+MD5Sum:
+ c4835ae6ebaaf9128e65696d1952ff89             3072 main/binary-amd64/Packages
+ f9cf4bf317b4023c6668539254a35a83             1077 main/binary-amd64/Packages.gz
+ d8246e4af54d4f20d6e4329f729fc581             3072 main/binary-arm64/Packages
+ 8082dd30baa91bdab9b5a53c37121d17             1077 main/binary-arm64/Packages.gz
+SHA1:
+ 5152f2474673a9075de68c34761a5d6e826789c3             3072 main/binary-amd64/Packages
+ a3296d3a937fe866deb97aa81d4836f2b5a7133b             1077 main/binary-amd64/Packages.gz
+ 889a2e1acc5fe12d32abcb69ed4bf21983581059             3072 main/binary-arm64/Packages
+ 923a046b50429d5c8696ee433c2dc7edbc6041c1             1077 main/binary-arm64/Packages.gz
+SHA256:
+ 9a5e7d393a6a6961ca33582315f644f5eb30163dab093062dc81e31ffdc261ba             3072 main/binary-amd64/Packages
+ 7ac47bb5e3be74ed00c8957f76e872f503d8bb5385a4e4b0068a5c84073bf86d             1077 main/binary-amd64/Packages.gz
+ ac57b0dd5ffaaafcb2ccd5e189efac3fa0b00ab179f65f09fa4570c8dede4637             3072 main/binary-arm64/Packages
+ e78ccd7d1f17359eb40fa51a22151e326b30e5feac8c13d61bf5225b67517709             1077 main/binary-arm64/Packages.gz
+SHA512:
+ 7f447de5c22eb32a09d1ed188cd5bbfbbc9fc9edbf95f6b2a232d652d50d511ee8f25bcc68e93338a88634214f490b9de65e85ff494c8536bf499dccd9bc60a9             3072 main/binary-amd64/Packages
+ 3dca2be3ab51c9b8a2194378c6c13bb38162ebb3dc6b8f7a627673d6171890c652740fd542707f0716b3b212634d809efbcbb17cb948ef1b39e4c6f85e08b455             1077 main/binary-amd64/Packages.gz
+ e5722c24b0103502e5e90140ce56bbd6ae37be6bc0a0926d5b197aee1dac1665e602abaac6d4138c4fd4f975b59d4127b35bf3d65ed95c32c8a01840d3757dba             3072 main/binary-arm64/Packages
+ a9b88ce57d21d9ff3f130f2da8377141cbba45657c508e580ab240df13a9c3cb1cbc4eb523ba5802c8819bb52aa87defb04024902810a7316fddd66ffc514c87             1077 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE8uGZMNIetFmvkahbct6C9fB04w0FAmp7dUYACgkQct6C9fB0
+4w1H5xAAh5+j8aiJaTiZRitMZCq0IKVH3q2DYIE7oTcU0IQCwmywEhaUqciEsnz1
+uGp15SxTxPhIixRrMbg4tcsGv3dSXytBMAsbViNdhV8GY2oML3gOXCOzaLpMNBiJ
++FRnsqOLdnGUclXyOOwx+ov8KBt7RWVoxmKy14gJ4SMdJGFCD4X4HEHK7oltE68n
+RL7fBXXRo2Tinlvq/bxo2WGgeSfrM/Jo4NLlNdlJx/WZaaQy/Id1KWGV29QcbYyL
+hx2P/D4eFkjACrZorfTW73B+H8lu7mUNR5EYRCYq/ji70qoKq3KdKZVAusPvzYi6
+tGqInm4761AgX0hNXsAqhIpx4L3nUZTWuJ9r9wRV/LLFgqC6eqgcDwfopSyroyie
+rC2diqPwxJipaMqc/SBMZgoT5AQVu4J6EKi1D+GdG8m3uhzWTmK5/jjVHkjKy4Jj
+gJjTEb4xBW6TgjCFLZHQqO1tSKT+vs5M16iKG//Lw1MoEz2glLR/l8Ve/qC09GY0
+TcJgGwH0g48idBvdvDB2G8WXdKoMGE28r9dgvNl3Bg3pXNACloCPIsdxJ60h53wn
+7vj/I6cwycxsr8/NbAB9a0AMQ5UO4+o9mD07xh/UWJyzVAf0B0ckOhO7E4ZNI25V
+MCAG1uKiEVNU5CD2ON5n7uF62tBigj6k3YfL+9CS20TeP2kwXQ0=
+=yyth
+-----END PGP SIGNATURE-----
