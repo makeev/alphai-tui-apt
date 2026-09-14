@@ -1,0 +1,69 @@
+Package: alphai-tui
+Architecture: amd64
+Version: 0.22.0
+Priority: optional
+Section: utils
+Maintainer: Mikhail Makeev <mihail.makeev@gmail.com>
+Installed-Size: 11752
+Depends: libc6 (>= 2.35)
+Filename: pool/main/a/alphai-tui/alphai-tui_0.22.0_amd64.deb
+Size: 3299174
+MD5sum: e00f8161fb6527be9a2c3dd20ba47744
+SHA1: 0f69e3ec1b04d0460e302e34c2aa56d96ebe2277
+SHA256: ec77b23ad065670a90d52b9cc8400b0e9f9685d3024db899bcc7a114e6492570
+SHA512: 38c37d46ea0f9da677664ad7c396e5d7d2d92c93a3e61de353c83fbcca3fb3fbafeaae57f9e2567b9622535ac4ef5517c1c16a49ecb965532b904fb7de23d49f
+Homepage: https://github.com/makeev/alphai-tui
+Description: terminal stock dashboard with news and insider activity
+ Live quotes and interactive charts in the terminal, next to AI scored
+ financial news and SEC Form 4 insider transactions from the AlphaAI API.
+ .
+ Quotes and charts need no account at all (Yahoo by default, Finnhub and
+ Alpaca optional). The news, sentiment and insider views read a free
+ AlphaAI key from the config file or the environment.
+
+Package: alphai-tui
+Architecture: amd64
+Version: 0.22.1
+Priority: optional
+Section: utils
+Maintainer: Mikhail Makeev <mihail.makeev@gmail.com>
+Installed-Size: 11748
+Depends: libc6 (>= 2.35)
+Filename: pool/main/a/alphai-tui/alphai-tui_0.22.1_amd64.deb
+Size: 3297504
+MD5sum: 5664d814dc2cc99a81262a4d3ae2f917
+SHA1: 21e0ef705908d2e143d9902c032572115d8f9dbf
+SHA256: bf89a4c1b7d738726c42db89dd4e225a5aaf3ee4b3bcb131cee16b35da3596f6
+SHA512: 4b52a067214a4cebf7d36d4da35371be0ae097246b87a33236b412f42a635749ed2d7963b3b481586c40c91f814caa7318b4c9556165fc2311befd9c315bdb3d
+Homepage: https://github.com/makeev/alphai-tui
+Description: terminal stock dashboard with news and insider activity
+ Live quotes and interactive charts in the terminal, next to AI scored
+ financial news and SEC Form 4 insider transactions from the AlphAI API.
+ .
+ Quotes and charts need no account at all (Yahoo by default, Finnhub and
+ Alpaca optional). The news, sentiment and insider views read a free
+ AlphAI key from the config file or the environment.
+
+Package: alphai-tui
+Architecture: amd64
+Version: 0.23.0
+Priority: optional
+Section: utils
+Maintainer: Mikhail Makeev <mihail.makeev@gmail.com>
+Installed-Size: 11908
+Depends: libc6 (>= 2.35)
+Filename: pool/main/a/alphai-tui/alphai-tui_0.23.0_amd64.deb
+Size: 3348238
+MD5sum: 833bd2cbe650334bf83c2eedb35f4676
+SHA1: 188e5c7eb057a1664d6726bf70d0457f9864376c
+SHA256: 3ddbe994a57eb5e4229dbd2d44d8c712e4eb41031cbe83fe4c90e950164ff6d7
+SHA512: 1019637c1d63c88c855d8041b3c2084cb1098a4f7b62b15c36a5dc5653eb38c9a7fd804fe270334f32d1a804a9b7b92cbe977222235af73ab895e75ef2cc917c
+Homepage: https://github.com/makeev/alphai-tui
+Description: terminal stock dashboard with news and insider activity
+ Live quotes and interactive charts in the terminal, next to AI scored
+ financial news and SEC Form 4 insider transactions from the AlphAI API.
+ .
+ Quotes and charts need no account at all (Yahoo by default, Finnhub and
+ Alpaca optional). The news, sentiment and insider views read a free
+ AlphAI key from the config file or the environment.
+
