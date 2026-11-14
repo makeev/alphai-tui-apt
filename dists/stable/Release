@@ -1,0 +1,28 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 14 Nov 2026 08:31:55 +0000
+Description: alphai-tui, terminal stock dashboard
+Label: alphai-tui
+Origin: alphai-tui
+Suite: stable
+MD5Sum:
+ e29cd51a36200745c2c4bfeb2e628765             3066 main/binary-amd64/Packages
+ 01ddd09880b134b45f1352e8efaabeba             1079 main/binary-amd64/Packages.gz
+ 8c6b3d0fc9d0042c5bfbbb1f0e5ba47b             3066 main/binary-arm64/Packages
+ 9ce60704bd4d34df0eabe581302ff3d1             1081 main/binary-arm64/Packages.gz
+SHA1:
+ d9cbf3fe64a6d4a801dc12d028e2278c2a535585             3066 main/binary-amd64/Packages
+ 959def23b34ca24004790346078dc3834440413d             1079 main/binary-amd64/Packages.gz
+ e19424e3b3d943392c20aa65d748097659560963             3066 main/binary-arm64/Packages
+ 00a334a64588a58dfa75def1c7e8f42071149fce             1081 main/binary-arm64/Packages.gz
+SHA256:
+ 7097d3257cbb8ccfb035222b464cf79ea2747aa28cf46d77b05a0970c2dede18             3066 main/binary-amd64/Packages
+ 78a8298094f0d7068a13d90f332a5b420104bc1b9df01f0ecf91954929e0eb8e             1079 main/binary-amd64/Packages.gz
+ a754f44444498366e34d6e6d456137163a6e50a8db86e739aa39070a039972be             3066 main/binary-arm64/Packages
+ 56f2894d322a03e938471952402ec96eda16c9916fde529947e94d6b2b39f4af             1081 main/binary-arm64/Packages.gz
+SHA512:
+ 0ce098ee36cc19367647553b003ae1769c63348ded6ad7bd6571d347087676afb3ac4fbf16d90680e84108e4d4665be12a1f545d589ed4fe686dc9e91db3037e             3066 main/binary-amd64/Packages
+ 28b3fa67e6b451db4c34b10ee6a8ff5c38349ab45f93982e017fd278803538caac4191224eef4bf417f7c5e77971c6699772aa406219adce15f417f6cecf88ea             1079 main/binary-amd64/Packages.gz
+ 23745cdc8c6f7c7b92d614f4d55b6b3282f48c7bd6909ee7662d962bf877f72a8ff53ed87dda67abc78cf79a05532010c3147ed691c11f93960f3e9f6b39404e             3066 main/binary-arm64/Packages
+ 6bc1490d36210daf878b0f9c88959f0a80a1d16761761e0c45d5c6cb4a0262f7898acfa7c197f6bfb1017b3afd6a3278e17f2f229df651c5c555879059e40a2f             1081 main/binary-arm64/Packages.gz
